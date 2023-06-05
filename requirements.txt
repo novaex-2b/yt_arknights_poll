@@ -1,0 +1,4 @@
+pytchat
+curses
+fuzzywuzzy
+python-levenshtein
